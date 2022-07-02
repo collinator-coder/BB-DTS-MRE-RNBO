@@ -6,14 +6,23 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="white">#FFFFFF</color>
 
-    <color name="scheme_monochrome_background">#FFFFFF</color>
+    <color name="scheme_Lite_background">#FFFFFF</color>
 
-    <array name="scheme_monochrome_dots">
-        <item>#000000</item>
+    <array name="scheme_Lite_dots">
+        <item>#34eba4</item>
+        <item>#a4eb34</item>
+        <item>#00ddff</item>
+        <item>#15ff00</item>
+        <item>#bf00ff</item>
+        <item>#0d00ff</item>
+        <item>#00ffea</item>
+        <item>#d900ff</item>
+        <item>#d900ff</item>
+        <item>#ff8800</item>
     </array>
 
-    <array name="scheme_monochrome_dot_borders">
-        <item>#555555</item>
+    <array name="scheme_Lite_dot_borders">
+        <item>#000000</item>
     </array>
 
     <color name="scheme_splash_of_colour_background">#FFFFFF</color>
