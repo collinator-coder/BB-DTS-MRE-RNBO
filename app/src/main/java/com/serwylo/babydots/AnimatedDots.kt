@@ -19,7 +19,7 @@ class AnimatedDots @JvmOverloads constructor(
 ) : View(context, attrs, defStyleAttr) {
 
     enum class ColourScheme {
-        Monochrome,
+        Lite,
         SplashOfColour,
         BrightRainbow,
         Rainbow,
